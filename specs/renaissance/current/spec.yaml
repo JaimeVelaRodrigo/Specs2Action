@@ -1,0 +1,14 @@
+# spec.yaml — keys in English, content bilingual where needed
+meta:
+  name: "Spec Renaissance"
+  owner: "Jaime Vela"
+  version: "1.0-M1"
+  language: ["es", "en"]
+glossary:
+  beauty: "belleza"
+  harmony: "armonía"
+  foresight: "futurología / foresight"
+identity:
+  essence: ""
+  values: []
+  principles: []
