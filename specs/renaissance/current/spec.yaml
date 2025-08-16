@@ -1,14 +1,39 @@
-# spec.yaml — keys in English, content bilingual where needed
 meta:
   name: "Spec Renaissance"
-  owner: "Jaime Vela"
   version: "1.0-M1"
-  language: ["es", "en"]
-glossary:
-  beauty: "belleza"
-  harmony: "armonía"
-  foresight: "futurología / foresight"
-identity:
-  essence: ""
-  values: []
-  principles: []
+  language: ["en","es"]
+
+alignment:
+  core_reference: "../../core/spec-core.yaml"
+  coherence_notes: "This pillar expresses my core identity through beauty, harmony, and responsible action."
+
+content:
+  vision: >
+    Rebuild my life from autonomy and beauty—uniting aesthetic desire, embodied ethics,
+    and symbolic thought—so that vision consistently turns into grounded action.
+  values:
+    - Beauty
+    - Harmony
+    - Responsibility
+    - Integrity
+    - Stewardship
+  principles:
+    - Prefer clarity and beauty over unnecessary complexity.
+    - Every reflection ends with 3 verifiable actions (≤7 days).
+    - Seek shared gain: align personal, community, and environmental value.
+  practices:
+    - Daily VCA ritual: 15' Reflection + 60' Action.
+    - Weekly publication or outreach from one VCA entry.
+    - Keep a living glossary to preserve coherence of language.
+  areas_for_improvement:
+    - Strengthen day-to-day operational discipline (finance, scheduling, follow-through).
+    - Reduce abstraction drift by anchoring ideas to concrete examples.
+  applications:
+    - Write concise public reflections and talks that open perspectives without grandiosity.
+    - Translate aesthetic/ethical discernment into board-level decision maps.
+
+machine_summary:
+  headlines:
+    - "Renaissance = beauty, ethics, and symbolic thought turned into action."
+    - "Every insight closes with 3 verifiable steps in seven days."
+  keywords: ["renaissance","beauty","ethics","foresight","stewardship","clarity","action"]
