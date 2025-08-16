@@ -1,0 +1,48 @@
+meta:
+  name: "Spec Foresight"
+  version: "1.0-M1"
+  language: ["en","es"]
+
+alignment:
+  core_reference: "../../core/spec-core.yaml"
+  coherence_notes: "Foresight integrates aesthetic–ethical discernment with investable guardrails."
+
+content:
+  vision: >
+    Practice foresight that is poetic and practical: aesthetic–ethical lenses
+    that anticipate change and convert into investable, verifiable moves.
+  values:
+    - Curiosity
+    - Coherence
+    - Responsibility
+    - Beauty
+    - Prudence
+  principles:
+    - Every signal → a testable hypothesis with metrics and a smallest viable bet.
+    - Strategy must pass the finance rubric: unit economics first, narrative second.
+    - Publish learning loops (what we believed, what happened, what we changed).
+  practices:
+    - Horizon scans → 1-page “Signal → Bet → Metric” notes.
+    - Monthly scenario review with financial sensitivities.
+    - One public write-up per month to discipline clarity.
+  areas_for_improvement:
+    - Faster prototyping of pilots with cost caps.
+    - Clearer stop rules when hypotheses fail.
+  applications:
+    - Board sessions blending scenarios with capital planning.
+    - Early-stage theses for infra/energy & AI-enabled operations.
+
+finance_guardrails:
+  screen:
+    must_pass: ["positive contribution margin path", "credible customer/contract model", "capex/opex mapped", "two-way sensitivity (price/rates)"]
+  capital_plan:
+    shapes: ["project finance","JV","revenue-share","convertible"]
+    choose_by: ["risk allocation", "cash flow profile", "governance needs", "community impact"]
+  exit_criteria:
+    stop_if: ["no traction after 2 iterations", "DSCR < 1.1 in base case", "unmitigable regulatory block"]
+
+machine_summary:
+  headlines:
+    - "Foresight = poetic clarity with investable guardrails."
+    - "Signals become smallest viable bets with unit economics."
+  keywords: ["foresight","scenarios","signals","small bets","unit economics","sensitivity","stewardship"]
