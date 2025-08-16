@@ -1,12 +1,65 @@
 meta:
   owner: "Jaime Vela Rodrigo"
   version: "1.0-M1"
-  languages: ["es","en"]
+  languages: ["en","es"]
 
 identity:
-  essence: "Escribe aquí 2–3 frases que te describen hoy."
-  values: ["belleza","armonía","responsabilidad"]
+  essence: >
+    I rebuild life and work from autonomy and beauty. I unite aesthetic desire,
+    embodied ethics, and symbolic thought with practical discipline so vision
+    becomes tangible outcomes.
+  values:
+    - Beauty
+    - Harmony
+    - Responsibility
+    - Integrity
+    - Stewardship
   principles:
-    - "Prefiero claridad y belleza a complejidad innecesaria."
-    - "Toda reflexión termina en 3 acciones verificables (≤7 días)."
-    - "Impacto con ética y cuidado de la comunidad/medioambiente."
+    - Prefer clarity and beauty over unnecessary complexity.
+    - Every reflection ends with 3 verifiable actions (≤7 days).
+    - Align value for investors, communities, and the environment (shared gain).
+    - Tie strategy to unit economics and cash-flow reality.
+    - Practice care for creation: no extractive, purely short-term models.
+
+offers:
+  - name: "Executive Foresight Session (90’)"
+    problem: "Boards face high uncertainty and narrative noise."
+    promise: "Aesthetic–ethical discernment turned into a board-ready decision map."
+    proof_points: ["30 years in energy/infrastructure", "systems view", "capital discipline"]
+    call_to_action: "Schedule an introduction session."
+  - name: "Infra & Energy Partnering / Advisory"
+    problem: "Projects need investable structures and aligned incentives."
+    promise: "Bankable framing: unit economics, risk allocation, governance, ESG."
+    proof_points: ["Project finance experience", "Investor alignment", "Community focus"]
+    call_to_action: "Request a 1-page memo on your project."
+
+contexts:
+  geography:
+    base: "Chile"
+    groundings:
+      - name: "Ethical alignment"
+        notes: "Favor community impact and sustainability; avoid extractive models."
+      - name: "Market lens"
+        notes: "Energy/infrastructure focus with realistic capital structures."
+      - name: "Practice"
+        notes: "Write clearly, act weekly, measure outcomes."
+  sectors: ["energy","infrastructure","AI/AGI ethics","sustainability"]
+
+workflows:
+  vca_repo_path: "vca/VCA.md"
+  specs_paths:
+    renaissance: "specs/renaissance/current/spec.yaml"
+    professional: "specs/professional/current/spec.yaml"
+    foresight: "specs/foresight/current/spec.yaml"
+
+integration_guidance:
+  how_to_prompt_ai: |
+    Read spec-core.yaml (identity, principles, offers, contexts) and the active pillar spec.
+    Always end with a section “Action” (3 verifiable steps ≤7 days).
+    If information is missing, ask to complete the relevant YAML field.
+
+glossary:
+  beauty: "belleza"
+  harmony: "armonía"
+  stewardship: "mayordomía (custody with moral purpose)"
+  foresight: "futurología / foresight"
