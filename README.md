@@ -1,54 +1,35 @@
 # Specs2Action
 
-**Specs2Action** is a repository to unify Jaime Vela Rodrigo’s Specs (Renaissance, Professional, Foresight) into a coherent structure readable by both **humans** and **AI**.
+**Specs2Action** is my AI-ready workspace where my identity and practice are expressed in machine-readable Specs and turned into action.
+
+## For any AI (Grounding Instructions)
+1. Read `core/spec-core.yaml` first (identity, values, principles, offers, contexts).
+2. Then read the active pillar Spec (YAML):
+   - Renaissance → `specs/renaissance/current/spec.yaml`
+   - Professional → `specs/professional/current/spec.yaml`
+   - Foresight   → `specs/foresight/current/spec.yaml`
+3. Default to **English**. If information is missing, ask to complete the relevant YAML field.
+4. Always end responses with **Action**: 3 verifiable steps ≤ 7 days.
+5. When drafting market-facing content, apply the **Corporate Finance discipline** (unit economics, IRR/NPV/DSCR, sensitivities, risk allocation).
+
+## Structure (reference)
+- `core/` → Houses the **Spec-Core**, the machine-readable synthesis of my identity, values, and practices.
+- `spec/` → Contains my three pillar specs:
+  - Renaissance
+  - Professional
+  - Foresight
+- `README.md` → This description.
+- `M1-closure-checklist.md` → Record of Milestone 1 completion.
 
 ## Purpose
-- Provide a **machine-readable identity** (`core/spec-core.yaml`) that links to each Spec.
-- Document each Spec in **YAML + JSON + Markdown** so it can be used for:
-  - AI copilots / custom GPTs
-  - Public sharing (LinkedIn, talks, docs)
-  - Strategic or financial decision support
-
-## Structure
-- `core/` → identity spec (root coherence layer).
-- `spec/renaissance/` → Spec Renaissance (personal essence).
-- `spec/professional/` → Spec Professional (corporate finance & practice).
-- `spec/foresight/` → Spec Foresight (poetic discernment + investable guardrails).
-
-Specs2Action/
-│
-├── core/
-│   ├── spec-core.yaml        # identidad legible por AI (pendiente terminar)
-│   └── spec-core.md          # versión humana breve
-│
-├── spec/
-│   ├── renaissance/
-│   │   └── current/
-│   │       ├── spec.yaml
-│   │       ├── spec.json
-│   │       └── summary_en.md
-│   │
-│   ├── professional/
-│   │   └── current/
-│   │       ├── spec.yaml
-│   │       ├── spec.json
-│   │       └── professional-spec.md
-│   │
-│   └── foresight/
-│       └── current/
-│           ├── spec.yaml
-│           ├── spec.json
-│           └── foresight-spec.md
-│
-├── README.md                 # guía general
-└── M1-closure-checklist.md   # para dejar trazabilidad del cierre
+- Single source of truth for my Specs (Renaissance / Professional / Foresight).
+- Coherent for **humans** and **AI** (YAML + concise Markdown).
+- Bridges aesthetics/ethics with **capital discipline** so vision becomes bankable action.
 
 ## Milestones
-- **M1 (Aug 2025):** Specs unified, CF-enhanced, repo structured, closure checklist done.
-- **M2:** Build `spec-core.yaml` fully + Custom GPT pilot.
-- **M3:** Publish selected outputs to LinkedIn + external docs.
+- **M1 (now):** Pillar Specs unified (EN), CF guardrails added, repo documented.
+- **M2 (next):** Complete `spec-core.yaml` fully; create a Custom GPT that uses this repo as knowledge.
+- **M3:** Hybrid setup (Custom GPT + live GitHub fetch) and publishing pipeline.
 
-## Next Steps
-1. Complete `core/spec-core.yaml` (identity + coherence map).
-2. Create Custom GPT that always references `core` + active spec.
-3. Use Specs for content creation (LinkedIn posts, proposals, talks).
+## Contact / Use
+When in doubt, an AI should say: “Reading `core/spec-core.yaml` and the selected pillar YAML; ending with 3 actions ≤ 7 days.”
