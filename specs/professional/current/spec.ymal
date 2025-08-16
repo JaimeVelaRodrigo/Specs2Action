@@ -1,0 +1,49 @@
+meta:
+  name: "Spec Professional"
+  version: "1.0-M1"
+  language: ["en","es"]
+
+alignment:
+  core_reference: "../../core/spec-core.yaml"
+  coherence_notes: "Professional pillar = market-facing practice grounded in ethics, aesthetics, and capital discipline."
+
+content:
+  vision: >
+    Deliver elegant, practical solutions where beauty and harmony meet
+    disciplined corporate finance—so every initiative is sustainable and profitable.
+  values:
+    - Stewardship
+    - Integrity
+    - Clarity
+    - Value Creation
+    - Sustainability
+  principles:
+    - Tie every vision to unit economics and cash flow reality.
+    - Prefer simple, auditable structures over opaque complexity.
+    - Align incentives across investors, communities, and environment.
+  practices:
+    - Opportunity memos with a 1-page financial snapshot (problem, value, unit economics, risks, milestones).
+    - Standard decision gates: Idea → Memo → Pilot → Scale (with metrics & owner).
+    - Weekly pipeline review: win/loss notes and next best action.
+  areas_for_improvement:
+    - Shorten cycle from insight to commercial test.
+    - Systematize follow-through on BD conversations.
+  applications:
+    - Advisory/partnering on infra & energy projects (capital structure, risk allocation, governance).
+    - Executive foresight sessions translated into board-ready investment notes.
+
+finance_rubric:
+  unit_economics:
+    must_have: ["clear revenue driver", "variable vs fixed costs split", "contribution margin"]
+  capital_discipline:
+    metrics: ["IRR", "NPV", "Payback", "DSCR"]
+    constraints: ["sensitivity to prices/rates", "downside scenario intact", "liquidity runway ≥ 12m"]
+  risk_allocation:
+    categories: ["market", "regulatory", "operational", "counterparty", "ESG"]
+    mitigations: ["hedges/PPAs", "permits plan", "O&M SLAs", "covenants/governance", "community agreements"]
+
+machine_summary:
+  headlines:
+    - "Professional = beauty + finance discipline → sustainable, profitable execution."
+    - "Every project passes unit economics, IRR/NPV, DSCR, and downside tests."
+  keywords: ["corporate finance","unit economics","IRR","NPV","DSCR","governance","risk allocation","sustainability"]
