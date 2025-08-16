@@ -1,32 +1,26 @@
 # Specs2Action
 
-A mono-repo to turn living Specs into action and market impact. It unifies:
-- **Specs** (Renaissance, Professional, Foresight)
-- **VCA System** (Visión–Causa–Acción): daily distillation and execution
-- **Outputs**: posts, pitches, and artifacts
-- **Ops**: backlog, rituals, and governance
+**Specs2Action** is a repository to unify Jaime Vela Rodrigo’s Specs (Renaissance, Professional, Foresight) into a coherent structure readable by both **humans** and **AI**.
 
-## Why
-Bridge **vision** and **ground**: beauty + clarity + verifiability.
+## Purpose
+- Provide a **machine-readable identity** (`core/spec-core.yaml`) that links to each Spec.
+- Document each Spec in **YAML + JSON + Markdown** so it can be used for:
+  - AI copilots / custom GPTs
+  - Public sharing (LinkedIn, talks, docs)
+  - Strategic or financial decision support
 
 ## Structure
-```
-specs/              # Source of truth for your Specs
-  renaissance/      # Spec Renaissance (ex Vital)
-  professional/     # Spec Profesional y de Negocios
-  foresight/        # Spec Foresight / Futurológico
-vca/                # VCA templates + daily entries
-outputs/            # Public-facing artifacts (LinkedIn posts, 1-pagers)
-ops/                # Backlog, rituals, project notes
-.github/ISSUE_TEMPLATE/  # Templates for issues
-```
+- `core/` → identity spec (root coherence layer).
+- `spec/renaissance/` → Spec Renaissance (personal essence).
+- `spec/professional/` → Spec Professional (corporate finance & practice).
+- `spec/foresight/` → Spec Foresight (poetic discernment + investable guardrails).
 
-## Rituals
-- **Daily**: 15' *VCA Reflection* + 60' *VCA Acción*
-- **Weekly**: choose 1 VCA to publish/convert into a concrete deliverable
-- **Rule**: *Sin VCA, no hay publicación ni proyecto*
+## Milestones
+- **M1 (Aug 2025):** Specs unified, CF-enhanced, repo structured, closure checklist done.
+- **M2:** Build `spec-core.yaml` fully + Custom GPT pilot.
+- **M3:** Publish selected outputs to LinkedIn + external docs.
 
-## Getting Started
-1. Fill `vca/TEMPLATE_VCA.md` and create your first entry in `vca/VCA.md`.
-2. Place your current Specs in `specs/*/current/` and tag `v1.0-M1` when DoD is met.
-3. Use Issue templates to create actionable items from VCA entries.
+## Next Steps
+1. Complete `core/spec-core.yaml` (identity + coherence map).
+2. Create Custom GPT that always references `core` + active spec.
+3. Use Specs for content creation (LinkedIn posts, proposals, talks).
