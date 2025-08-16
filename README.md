@@ -15,6 +15,34 @@
 - `spec/professional/` → Spec Professional (corporate finance & practice).
 - `spec/foresight/` → Spec Foresight (poetic discernment + investable guardrails).
 
+Specs2Action/
+│
+├── core/
+│   ├── spec-core.yaml        # identidad legible por AI (pendiente terminar)
+│   └── spec-core.md          # versión humana breve
+│
+├── spec/
+│   ├── renaissance/
+│   │   └── current/
+│   │       ├── spec.yaml
+│   │       ├── spec.json
+│   │       └── summary_en.md
+│   │
+│   ├── professional/
+│   │   └── current/
+│   │       ├── spec.yaml
+│   │       ├── spec.json
+│   │       └── professional-spec.md
+│   │
+│   └── foresight/
+│       └── current/
+│           ├── spec.yaml
+│           ├── spec.json
+│           └── foresight-spec.md
+│
+├── README.md                 # guía general
+└── M1-closure-checklist.md   # para dejar trazabilidad del cierre
+
 ## Milestones
 - **M1 (Aug 2025):** Specs unified, CF-enhanced, repo structured, closure checklist done.
 - **M2:** Build `spec-core.yaml` fully + Custom GPT pilot.
