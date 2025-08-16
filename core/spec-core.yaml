@@ -1,0 +1,12 @@
+meta:
+  owner: "Jaime Vela Rodrigo"
+  version: "1.0-M1"
+  languages: ["es","en"]
+
+identity:
+  essence: "Escribe aquí 2–3 frases que te describen hoy."
+  values: ["belleza","armonía","responsabilidad"]
+  principles:
+    - "Prefiero claridad y belleza a complejidad innecesaria."
+    - "Toda reflexión termina en 3 acciones verificables (≤7 días)."
+    - "Impacto con ética y cuidado de la comunidad/medioambiente."
