@@ -1,9 +1,9 @@
-# Ops — Backlog y Rituales
-
 ## M1 closed — 2025-08-16
 - Core (md + yaml) complete (EN)
 - Renaissance / Professional / Foresight unified (spec.yaml) + summaries (EN)
 - Rule: single source of truth = Specs2Action
+
+# Ops — Backlog y Rituales
 
 ## Backlog M1 (Specs)
 - [ ] Inventario + glosario
