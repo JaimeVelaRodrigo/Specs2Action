@@ -1,27 +1,22 @@
-# Spec-Core (humano)
+# Spec-Core (human)
 
-Este documento resume mi identidad, principios y oferta actual.  
-Si solo lees una cosa, lee **esto** y `spec-core.yaml`.
+If you read only one thing, read **this** and `spec-core.yaml`.
 
----
+## Who I am (now)
+I unite beauty, ethics, and symbolic thought with practical discipline so that vision becomes tangible outcomes. I prefer clarity over complexity, and I close every reflection with three verifiable actions within a week.
 
-## Identidad (hoy)
-- **Esencia:** … (2–3 frases que te describan hoy)  
-- **Valores:** … (3–5 palabras clave, ej. belleza, armonía, responsabilidad)  
-- **Principios:**  
-  - Prefiero claridad y belleza a complejidad innecesaria.  
-  - Toda reflexión termina en 3 acciones verificables (≤7 días).  
-  - Impacto con ética y cuidado de la comunidad/medioambiente.  
+**Values:** Beauty • Harmony • Responsibility • Integrity • Stewardship  
+**Principles:**
+- Clarity and beauty before complexity.
+- Every reflection → 3 actions (≤7 days).
+- Shared gain across investors, communities, and environment.
+- Strategy anchored in unit economics and cash flow.
 
----
+## What I offer (today)
+- **Executive Foresight (90’):** a board-ready decision map grounded in aesthetic–ethical discernment and finance guardrails.  
+- **Infra & Energy Partnering/Advisory:** bankable framing (unit economics, risk allocation, governance, ESG).
 
-## Oferta actual
-- Foresight ejecutivo 90’: discernimiento estético-ético con mapa de decisiones.  
-- (Opcional) Segunda oferta que quieras agregar.  
-
----
-
-## Cómo trabajar conmigo
-- Ritual diario VCA.  
-- Toda idea → 3 acciones verificables (≤7 días).  
-- Claridad + belleza antes que complejidad.  
+## How to work with me
+- Daily VCA: 15’ reflection + 60’ action.  
+- Weekly: publish or outreach from one VCA entry.  
+- Measure what matters (cash flow, risk, community, environment).
