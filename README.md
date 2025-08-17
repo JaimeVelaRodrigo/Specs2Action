@@ -21,21 +21,20 @@
 - `README.md` → This description.
 - `M1-closure-checklist.md` → Record of Milestone 1 completion.
 
-" Specs2Action/
- │
- ├── core/                         # Capa de identidad común
- │   ├── spec-core.yaml
- │   └── spec-core.md
- │
- ├── spec/                         # Specs temáticos
- │   ├── renaissance/current/...
- │   ├── professional/current/...
- │   └── foresight/current/...
- │
- ├── README.md                     # Descripción principal del repositorio
- ├── M1-closure-checklist.md        # Checklist de cierre de Milestone 1
- └── LICENSE (opcional más adelante)
-"
+Specs2Action/
+│
+├── core/                         # Capa de identidad común
+│   ├── spec-core.yaml
+│   └── spec-core.md
+│
+├── spec/                         # Specs temáticos
+│   ├── renaissance/current/...
+│   ├── professional/current/...
+│   └── foresight/current/...
+│
+├── README.md                     # Descripción principal del repositorio
+├── M1-closure-checklist.md        # Checklist de cierre de Milestone 1
+└── LICENSE (opcional más adelante)
 
 ## Purpose
 - Single source of truth for my Specs (Renaissance / Professional / Foresight).
