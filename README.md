@@ -3,14 +3,14 @@
 **Specs2Action** is my AI-ready workspace where my identity and practice are expressed in machine-readable Specs and turned into action.
 
 ## For any AI (Grounding Instructions)
-1. Read `core/spec-core.yaml` first (identity, values, principles, offers, contexts).
-2. Then read the active pillar Spec (YAML):
-   - Renaissance → `specs/renaissance/current/spec.yaml`
-   - Professional → `specs/professional/current/spec.yaml`
-   - Foresight   → `specs/foresight/current/spec.yaml`
-3. Default to **English**. If information is missing, ask to complete the relevant YAML field.
-4. Always end responses with **Action**: 3 verifiable steps ≤ 7 days.
-5. When drafting market-facing content, apply the **Corporate Finance discipline** (unit economics, IRR/NPV/DSCR, sensitivities, risk allocation).
+1) Read `core/spec-core.yaml` first (identity, values, principles, offers, contexts).  
+2) Then read the active pillar Spec YAML:  
+   - Renaissance → `specs/renaissance/current/spec.yaml`  
+   - Professional → `specs/professional/current/spec.yaml`  
+   - Foresight   → `specs/foresight/current/spec.yaml`  
+3) Default to **English**; if information is missing, ask to complete the relevant YAML field.  
+4) Always end responses with **Action**: 3 verifiable steps ≤ 7 days.  
+5) Apply **Corporate Finance discipline** for market-facing outputs (unit economics, IRR/NPV/DSCR, sensitivities, risk allocation).
 
 ## Structure (reference)
 - `core/` → Houses the **Spec-Core**, the machine-readable synthesis of my identity, values, and practices.
