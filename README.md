@@ -20,6 +20,7 @@
   - Foresight
 - `README.md` → This description.
 - `M1-closure-checklist.md` → Record of Milestone 1 completion.
+- [weekly-advance-checklist.md](weekly-advance-checklist.md) → Operational checklist governing weekly execution (no inquiry, no advance).
 
 Specs2Action/
 │
