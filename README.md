@@ -41,6 +41,30 @@ Specs2Action/
 - Coherent for **humans** and **AI** (YAML + concise Markdown).
 - Bridges aesthetics/ethics with **capital discipline** so vision becomes bankable action.
 
+## Non-Negotiable Principle of Advance (Specs2Action)
+
+No strategic action is executed unless it is explicitly linked to a key inquiry whose answer reduces structural uncertainty and enables the next irreversible move.
+
+This principle replaces action driven by anxiety, intuition alone, or narrative pressure with action grounded in discernment, evidence, and real system reading.
+
+### Operational Inquiry Template
+
+Before advancing, explicitly define:
+
+**1. Key Question**  
+What must be understood about the market, actor, or system before advancing?
+
+**2. Concrete Inquiry**  
+Who do I need to observe or interview?  
+What practice, signal, or document am I looking for?
+
+**3. Expected Evidence**  
+What response, pattern, or behavior would indicate viability, traction, or blockage?
+
+**4. Decision Enabled**  
+- If evidence confirms the hypothesis → advance and commit resources.  
+- If evidence weakens it → redesign or stop with no sunk-cost attachment.
+
 ## Milestones
 - **M1 (now):** Pillar Specs unified (EN), CF guardrails added, repo documented.
 - **M2 (next):** Complete `spec-core.yaml` fully; create a Custom GPT that uses this repo as knowledge.
