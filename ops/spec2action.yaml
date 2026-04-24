@@ -1,0 +1,77 @@
+meta:
+  name: "Spec2Action"
+  version: "1.0.0-draft"
+  status: "draft"
+  last_updated: "2026-04-23"
+  owner: "Jaime Vela Rodrigo"
+  role: "operating_system"
+  description: >
+    Translates identity and foresight into decision-making, execution
+    frameworks and interaction with real-world constraints.
+
+operating_modes:
+  - name: "Discernment"
+    description: >
+      Understanding the structure of a situation before acting.
+      Avoid premature decisions.
+
+  - name: "Decision"
+    description: >
+      Choosing a direction under uncertainty using value, constraints
+      and long-term coherence.
+
+  - name: "Execution"
+    description: >
+      Moving from decision to action with discipline and focus.
+
+  - name: "Reflection"
+    description: >
+      Evaluating outcomes and integrating learning.
+
+decision_framework:
+  core_filter:
+    questions:
+      - "Does this create sustained value?"
+      - "Is this aligned with my core values?"
+      - "Is this economically viable?"
+      - "Does this increase or reduce coherence?"
+      - "Am I acting from clarity or reaction?"
+
+opportunity_evaluation:
+  dimensions:
+    - value_creation
+    - financial_viability
+    - alignment_with_identity
+    - long_term_potential
+    - complexity_level
+
+execution_loop:
+  structure:
+    - understand the situation
+    - define decision
+    - identify next 3 actions
+    - execute within ≤7 days
+    - review outcome
+
+ai_usage:
+  role: >
+    AI is used as a thinking partner to expand perception, structure
+    reasoning and explore scenarios, not as a replacement for judgment.
+
+  rules:
+    - do not outsource final decisions
+    - use AI to clarify, not to simplify prematurely
+    - integrate multiple perspectives
+    - always translate output into action
+
+constraints_handling:
+  description: >
+    Work is performed under financial, temporal and structural constraints.
+    Constraints are not avoided but used to refine decisions and focus action.
+
+value_tracking:
+  metrics:
+    - cash_flow
+    - decision_quality
+    - coherence
+    - progress toward long-term positioning
