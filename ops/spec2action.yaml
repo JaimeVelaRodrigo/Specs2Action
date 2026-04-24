@@ -9,6 +9,35 @@ meta:
     Translates identity and foresight into decision-making, execution
     frameworks and interaction with real-world constraints.
 
+current_priority:
+  focus: "Stabilize financial position and activate ALFA through ONEDGE"
+
+  context:
+    description: >
+      The current situation requires generating sustainable income while
+      repositioning capabilities in energy, infrastructure and digital platforms.
+
+    constraints:
+      - financial pressure
+      - limited time horizon for income generation
+      - need to validate market relevance
+
+  strategic_assets:
+    alfa:
+      description: >
+        Vehicle for structuring, advising and developing opportunities in
+        infrastructure, energy and technology.
+
+    onedge:
+      description: >
+        Digital platform focused on energy flexibility, with potential to
+        connect technological capability with real market needs.
+
+  success_definition:
+    - generate first revenue linked to ALFA / ONEDGE
+    - validate at least one real market use case
+    - establish positioning in energy flexibility / infrastructure
+
 operating_modes:
   - name: "Discernment"
     description: >
