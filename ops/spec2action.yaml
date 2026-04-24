@@ -104,3 +104,55 @@ value_tracking:
     - decision_quality
     - coherence
     - progress toward long-term positioning
+
+action_pipeline:
+  objective: >
+    Generate initial revenue and validate ONEDGE as a platform
+    for energy flexibility in real market conditions.
+
+  horizon: "next 30 days"
+
+  tracks:
+
+    - name: "Direct Revenue Activation"
+      goal: >
+        Secure at least one paid advisory engagement linked to
+        energy, infrastructure or flexibility.
+
+      actions:
+        - identify 10 high-probability contacts (past network, energy, infrastructure)
+        - send tailored outreach message with clear value proposition
+        - propose 90-minute paid session (Executive Foresight Session)
+        - close at least 1 paid engagement
+
+    - name: "ONEDGE Validation"
+      goal: >
+        Test ONEDGE with at least one real use case or potential client.
+
+      actions:
+        - define 1 concrete use case (e.g. flexibility, demand response, optimization)
+        - identify 3 potential users or partners
+        - run exploratory conversations
+        - validate problem-solution fit
+
+    - name: "Positioning"
+      goal: >
+        Establish visible positioning in energy flexibility and infrastructure.
+
+      actions:
+        - write 1 LinkedIn post articulating your perspective on energy flexibility
+        - share insight connecting infrastructure, AGI and energy systems
+        - reach out to 5 relevant professionals for conversation
+
+  weekly_execution_rule:
+    description: >
+      Every week must produce visible movement:
+      - at least 5 outreach actions
+      - at least 2 real conversations
+      - at least 1 concrete opportunity
+
+  success_metrics:
+    - number_of_conversations
+    - number_of_opportunities
+    - revenue_generated
+    - ONEDGE validation signals
